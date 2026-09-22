@@ -1,0 +1,12 @@
+# Virtual environment (anyone can rebuild it from requirements.txt)
+.venv/
+
+# Secrets
+.env
+
+# Raw downloads (large; the download script recreates them)
+data/raw/
+
+# Python and Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
