@@ -1,0 +1,111 @@
+product,status,hs_code
+"Almonds, 200 grams",not tariffed,
+"Apple juice, 2 litres",not tariffed,
+"Apples, per kilogram",not tariffed,
+"Avocado, unit",not tariffed,
+"Baby food, 128 millilitres",not tariffed,
+"Bacon, 500 grams",not tariffed,
+"Bananas, per kilogram",not tariffed,
+"Beef rib cuts, per kilogram",not tariffed,
+"Beef stewing cuts, per kilogram",not tariffed,
+"Beef striploin cuts, per kilogram",not tariffed,
+"Beef top sirloin cuts, per kilogram",not tariffed,
+"Block cheese, 500 grams",tariffed,0406.90
+"Broccoli, unit",not tariffed,
+"Brown rice, 900 grams",tariffed,1006.20
+"Butter, 454 grams",tariffed,0405.10
+"Cabbage, per kilogram",not tariffed,
+"Canned baked beans, 398 millilitres",not tariffed,
+"Canned beans and lentils, 540 millilitres",not tariffed,
+"Canned corn, 341 millilitres",not tariffed,
+"Canned peach, 398 millilitres",not tariffed,
+"Canned pear, 398 millilitres",not tariffed,
+"Canned salmon, 213 grams",not tariffed,
+"Canned soup, 284 millilitres",tariffed,2104.10
+"Canned tomatoes, 796 millilitres",not tariffed,
+"Canned tuna, 170 grams",not tariffed,
+"Canola oil, 3 litres",tariffed,1514.19
+"Cantaloupe, unit",not tariffed,
+"Carrots, 1.36 kilograms",not tariffed,
+"Celery, unit",not tariffed,
+"Cereal, 400 grams",not tariffed,
+"Chicken breasts, per kilogram",tariffed,0207.13
+"Chicken drumsticks, per kilogram",tariffed,0207.13
+"Chicken thigh, per kilogram",tariffed,0207.13
+"Cookies and sweet biscuits, 300 grams",not tariffed,
+"Crackers and crisp breads, 200 grams",not tariffed,
+"Cream, 1 litre",tariffed,0401.50
+"Cucumber, unit",not tariffed,
+"Deodorant, 85 grams",tariffed,3307.20
+"Dried lentils, 900 grams",not tariffed,
+"Dry beans and legumes, 900 grams",not tariffed,
+"Dry or fresh pasta, 500 grams",tariffed,1902.19
+"Eggs, 1 dozen",tariffed,0407.21
+"Flatbread and pita, 500 grams",not tariffed,
+"Frozen broccoli, 500 grams",not tariffed,
+"Frozen corn, 750 grams",not tariffed,
+"Frozen french fried potatoes, 750 grams",not tariffed,
+"Frozen green beans, 750 grams",not tariffed,
+"Frozen mixed vegetables, 750 grams",not tariffed,
+"Frozen peas, 750 grams",not tariffed,
+"Frozen pizza, 390 grams",tariffed,1905.90
+"Frozen spinach, 300 grams",not tariffed,
+"Frozen strawberries, 600 grams",not tariffed,
+"Grapes, per kilogram",not tariffed,
+"Ground beef, per kilogram",not tariffed,
+"Hummus, 227 grams",not tariffed,
+"Iceberg lettuce, unit",not tariffed,
+"Infant formula, 900 grams",not tariffed,
+"Ketchup, 1 litre",tariffed,2103.20
+"Laundry detergent, 4.43 litres",not tariffed,
+"Lemons, unit",tariffed,0805.50
+"Limes, unit",tariffed,0805.50
+"Margarine, 907 grams",tariffed,1517.10
+"Mayonnaise, 890 millilitres",tariffed,2103.90
+"Meatless burgers, 226 grams",not tariffed,
+"Milk, 1 litre",tariffed,0401.20
+"Milk, 2 litres",tariffed,0401.20
+"Milk, 4 litres",tariffed,0401.20
+"Mushrooms, 227 grams",not tariffed,
+"Nut milk, 1.89 litres",not tariffed,
+"Olive oil, 1 litre",not tariffed,
+"Onions, 1.36 kilograms",not tariffed,
+"Onions, per kilogram",not tariffed,
+"Orange juice, 2 litres",tariffed,2009.12
+"Oranges, 1.36 kilograms",tariffed,0805.10
+"Oranges, per kilogram",tariffed,0805.10
+"Pasta sauce, 650 millilitres",tariffed,2103.20
+"Peanut butter, 1 kilogram",tariffed,2008.11
+"Peanuts, 450 grams",tariffed,2008.11
+"Pears, per kilogram",not tariffed,
+"Peppers, per kilogram",not tariffed,
+"Pork loin cuts, per kilogram",not tariffed,
+"Pork rib cuts, per kilogram",not tariffed,
+"Pork shoulder cuts, per kilogram",not tariffed,
+"Potatoes, 4.54 kilograms",not tariffed,
+"Potatoes, per kilogram",not tariffed,
+"Roasted or ground coffee, 340 grams",tariffed,0901.21
+"Romaine lettuce, unit",not tariffed,
+"Salad dressing, 475 millilitres",tariffed,2103.90
+"Salad greens, 142 grams",not tariffed,
+"Salmon, per kilogram",not tariffed,
+"Salsa, 418 millilitres",not tariffed,
+"Shampoo, 400 millilitres",tariffed,3305.10
+"Shrimp, 300 grams",not tariffed,
+"Soy milk, 1.89 litres",not tariffed,
+"Squash, per kilogram",not tariffed,
+"Strawberries, 454 grams",not tariffed,
+"Sunflower seeds, 400 grams",not tariffed,
+"Sweet potatoes, per kilogram",not tariffed,
+Tea (20 bags),tariffed,0902.30
+"Tofu, 350 grams",not tariffed,
+"Tomatoes, per kilogram",tariffed,0702.00
+"Toothpaste, 100 millilitres",tariffed,3306.10
+"Vegetable oil, 3 litres",not tariffed,
+"Wheat flour, 2.5 kilograms",tariffed,1101.00
+"White bread, 675 grams",not tariffed,
+"White rice, 2 kilograms",tariffed,1006.30
+"White sugar, 2 kilograms",tariffed,1701.99
+"Whole chicken, per kilogram",tariffed,0207.11
+"Wieners, 400 grams",tariffed,1601.00
+"Yogurt, 500 grams",tariffed,0403.20
