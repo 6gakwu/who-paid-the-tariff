@@ -10,3 +10,4 @@ data/raw/
 # Python and Jupyter clutter
 __pycache__/
 .ipynb_checkpoints/
+data/processed/
