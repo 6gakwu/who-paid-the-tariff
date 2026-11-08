@@ -13,10 +13,11 @@ TABLES = {
     "cpi": "18100004",             # Consumer Price Index
 }
 
-# Other StatCan files, by direct address
+# Other StatCan files, by direct address: all Canadian imports, by product code and country
 OTHER_FILES = {
-    # All Canadian imports in 2024, by product code and country (last full year before the tariffs)
     "imports_2024": "https://www150.statcan.gc.ca/n1/pub/71-607-x/2021004/zip/CIMT-CICM_Imp_2024.zip",
+    "imports_2025": "https://www150.statcan.gc.ca/n1/pub/71-607-x/2021004/zip/CIMT-CICM_Imp_2025.zip",
+    "imports_2026": "https://www150.statcan.gc.ca/n1/pub/71-607-x/2021004/zip/CIMT-CICM_Imp_2026.zip",
 }
 
 
