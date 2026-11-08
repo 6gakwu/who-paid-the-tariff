@@ -5,7 +5,7 @@
 
 Saves two files to data/processed/:
 - us_import_shares_2024.csv
-- us_imports_by_period.csv
+- us_imports_by_period.cs
 """
 from pathlib import Path
 
